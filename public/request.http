@@ -1,0 +1,5 @@
+get https://api.thecatapi.com/v1/images/search
+Authorization:f033d894-59e5-4fe4-b848-78218586ee74
+
+###
+get http://localhost:3000/cats
